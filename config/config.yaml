@@ -1,0 +1,4 @@
+reports_path: /home/kenny/osda/reports
+defaults:
+  - _self_
+  - exps: exp_1

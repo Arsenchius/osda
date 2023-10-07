@@ -1,0 +1,17 @@
+id: 1
+task: classification
+data_path: /home/kenny/osda/osda_datasets/processed/water_potability.csv
+features:
+ - "ph"
+ - "Hardness"
+ - "Solids"
+ - "Chloramines"
+ - "Sulfate"
+ - "Conductivity"
+ - "Organic_carbon"
+ - "Trihalomethanes"
+ - "Turbidity"
+target: "Potability"
+number_of_trials_for_tuning: 1
+path_to_parameters: "best_parameters.yaml"
+path_to_report: "classification_report.csv"

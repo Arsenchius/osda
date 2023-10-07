@@ -1,0 +1,33 @@
+water_potability:
+
+Model               Accuracy    F1
+Decision Tree       0.6250      0.5079
+Random Forest       0.6280      0.3858
+XgBoost             0.6631      0.6105
+Catboost            0.6662      0.6120
+KNN                 0.5320      0.4825
+NaiveBayes          0.6311      0.5268
+LogisticRegression  0.6280      0.3858
+
+heart attack:
+
+Model               Accuracy    F1
+Decision Tree       0.6250      0.5079
+Random Forest       0.6280      0.3858
+XgBoost             0.6631      0.6105
+Catboost            0.6662      0.6120
+KNN                 0.5320      0.4825
+NaiveBayes          0.6311      0.5268
+LogisticRegression  0.6280      0.3858
+
+healthcare diabetes:
+
+Model               Accuracy    F1
+Decision Tree       0.7115      0.6901
+Random Forest       0.7628      0.6963
+XgBoost             0.7115      0.68
+Catboost            0.6662      0.6120
+KNN                 0.5320      0.4825
+NaiveBayes          0.6311      0.5268
+LogisticRegression  0.6280      0.3858
+
