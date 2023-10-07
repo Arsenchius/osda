@@ -12,13 +12,13 @@ LogisticRegression  0.6280      0.3858
 heart attack:
 
 Model               Accuracy    F1
-Decision Tree       0.6250      0.5079
-Random Forest       0.6280      0.3858
-XgBoost             0.6631      0.6105
-Catboost            0.6662      0.6120
-KNN                 0.5320      0.4825
-NaiveBayes          0.6311      0.5268
-LogisticRegression  0.6280      0.3858
+Decision Tree       0.8361      0.8360
+Random Forest       0.8525      0.8510
+XgBoost             0.8361      0.8360
+Catboost            0.8689      0.8685
+KNN                 0.6557      0.6497
+NaiveBayes          0.8852      0.8847
+LogisticRegression  0.8197      0.8195
 
 healthcare diabetes:
 
@@ -26,8 +26,8 @@ Model               Accuracy    F1
 Decision Tree       0.7115      0.6901
 Random Forest       0.7628      0.6963
 XgBoost             0.7115      0.68
-Catboost            0.6662      0.6120
-KNN                 0.5320      0.4825
-NaiveBayes          0.6311      0.5268
-LogisticRegression  0.6280      0.3858
+Catboost            0.7179      0.6796
+KNN                 0.7179      0.6565
+NaiveBayes          0.7372      0.7029
+LogisticRegression  0.7372      0.6933
 
